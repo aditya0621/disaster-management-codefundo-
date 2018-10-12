@@ -1,7 +1,7 @@
 # disaster-management-codefundo-
 OUR AIM: Our aim is to work on an idea that can act as a link between the disaster inflected people, service providers, health facilities and the outside world.
 In disaster situation, unavailability of communication is a major issue. So our effort is to develop a new system to resolve this problem. Other than its core purpose, we also look forward to record the overall statistics of the disaster situation. 
-An OVERVIEW OF WORKING OF IDEA : Inflicted people would be sending messages/media using an application that would be specifically designed for this purpose to a drone via hotspot/Wi-Fi technology. The drone after reaching at the site of base computer would share all the data received till that point with the base computer and then an application on the base computer would do rest of the work.
+An OVERVIEW OF WORKING OF IDEA : Our idea is to use a drone that will act as a link between the base computer and inflicted people. This idea is specially for cases where people are traped and communication system is fully disturbed. Inflicted people would be sending messages/media using an application that would be specifically designed for this purpose to a drone via hotspot/Wi-Fi technology. The drone after reaching at the site of base computer would share all the data received till that point with the base computer and then an application on the base computer would do rest of the work.
 Our main focus is on the application of the base computer that would aid in filtering the messages into categories such as :
 - Health Cases
 - Requirements
@@ -13,3 +13,9 @@ We will divide the program into three parts :
 1. Mobile application to send and receive text and media to and from the drone. This data transfer would be done by the means of hotspot/Wi-Fi technology.
 2. The drone would be equipped with a basic system that is able to send and receive data by means of hotspot/Wi-Fi technology.
 3.The application for the base computer. This is the field of our main focus. This is the heart of our project that will do most of the work.  
+
+The application required to send/receive messages between drone and devices of inflicted people would be shared by the drone itself after connection through wifi. Hence this eliminates the pre-requisite of having such an application installed on any device.
+
+The technologies that we are using are :
+1. Hotspot/Wi-Fi
+2. Drone equipped with basic system having hotspot/Wi-Fi technology.
