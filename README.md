@@ -1,2 +1,2 @@
 # digaster-management-codefund-
-"Dagaster Management" is self explanatory.
+OUR AIM: Our aim is to work on an idea that can 
