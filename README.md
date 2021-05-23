@@ -19,3 +19,4 @@ The application required to send/receive messages between drone and devices of i
 The technologies that we are using are :
 1. Hotspot/Wi-Fi
 2. Drone equipped with basic system having hotspot/Wi-Fi technology.
+  
